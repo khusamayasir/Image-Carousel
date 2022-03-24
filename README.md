@@ -1,5 +1,5 @@
 # Image-Carousel
-A simple JavaScript project.
+A simple JavaScript project..
 
 You can also check here: https://image-carousel-khusamayasir.netlify.app/
 
